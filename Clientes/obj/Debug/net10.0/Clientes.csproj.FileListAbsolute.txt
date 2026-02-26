@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitTest\TestGit\clientes\bin\Debug\net10.0\Clientes.exe
+C:\Users\david\Documents\GitTest\TestGit\clientes\bin\Debug\net10.0\Clientes.deps.json
+C:\Users\david\Documents\GitTest\TestGit\clientes\bin\Debug\net10.0\Clientes.runtimeconfig.json
+C:\Users\david\Documents\GitTest\TestGit\clientes\bin\Debug\net10.0\Clientes.dll
+C:\Users\david\Documents\GitTest\TestGit\clientes\bin\Debug\net10.0\Clientes.pdb
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.AssemblyInfo.cs
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.sourcelink.json
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.dll
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\refint\Clientes.dll
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.pdb
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\Clientes.genruntimeconfig.cache
+C:\Users\david\Documents\GitTest\TestGit\clientes\obj\Debug\net10.0\ref\Clientes.dll
